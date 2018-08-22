@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="플레이스토어-&amp;-랜딩" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1052.000000, -35.000000)">
+            <g id="Group" transform="translate(1052.000000, 35.000000)">
+                <path d="M1.58823529,5.49018664 L1.58823529,12.3774604 C1.58823529,14.5319763 3.33546597,16.2794118 5.49018664,16.2794118 L12.3774604,16.2794118 C14.5319763,16.2794118 16.2794118,14.5321811 16.2794118,12.3774604 L16.2794118,5.49018664 C16.2794118,3.33567073 14.5321811,1.58823529 12.3774604,1.58823529 L5.49018664,1.58823529 C3.33567073,1.58823529 1.58823529,3.33546597 1.58823529,5.49018664 Z M0,5.02895926 C0,2.25154175 2.25239496,0 5.02895926,0 L12.9710407,0 C15.7484582,0 18,2.25239496 18,5.02895926 L18,12.9710407 C18,15.7484582 15.747605,18 12.9710407,18 L5.02895926,18 C2.25154175,18 0,15.747605 0,12.9710407 L0,5.02895926 Z" id="Rectangle-23" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval-25" stroke="#FFFFFF" stroke-width="1.64736019" cx="9" cy="9" r="3.70588235"></circle>
+                <circle id="Oval-26" fill="#FFFFFF" cx="13.5661765" cy="4.16911765" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
