@@ -1,4 +1,4 @@
-# alwaysdodo.com
+# DayDay landing page
 
 > Nuxt.js project
 
